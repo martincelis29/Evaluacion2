@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Evaluation 2</string>
+    <string name="volver">Back</string>
+    <string name="producto">Product</string>
+    <string name="alerta_nombre">The product name cannot be empty.</string>
+    <string name="comprado">Purchased</string>
+    <string name="agregar">Add</string>
+    <string name="guardar">Save</string>
+    <string name="eliminar">Delete</string>
+    <string name="no_productos">There are no products to display.</string>
+</resources>
